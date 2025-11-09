@@ -1,6 +1,6 @@
 <template>
     <div>
-       home
-       <v-btn color="primary"> Vuetify Button</v-btn>
+      <signi-n-from /> 
+      <slot />
     </div>
 </template>
